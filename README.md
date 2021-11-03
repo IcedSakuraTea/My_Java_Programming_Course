@@ -1,2 +1,2 @@
 # Welcome
-Here are all my practices of Java programs dering this semester.
+Here are all my practices of Java programs during this semester.
